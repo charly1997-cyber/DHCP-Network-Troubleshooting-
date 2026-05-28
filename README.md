@@ -53,6 +53,7 @@ ipconfig /renew
 ping 192.168.134.10
 nslookup charlycyber.local
 
-# screenshots
+# screenshots <img width="4032" height="3024" alt="IMG_78FCBE64-2186-4174-8F80-E16A66A5339E" src="https://github.com/user-attachments/assets/2a0aa195-587e-4130-9431-f68e6fddc9a6" />
+
 
   
